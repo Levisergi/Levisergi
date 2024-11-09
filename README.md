@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Levisergi
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Codeing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Levisergi23@gmail.com
